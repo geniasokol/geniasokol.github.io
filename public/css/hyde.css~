@@ -244,7 +244,7 @@ a.sidebar-nav-item:focus {
 .theme-base-0f .sidebar {
   background-color: #8f5536;
 }
-body {
+.theme-base-0f .content {
   background-color: #ffe6b3;
 }
 .theme-base-0f .content a,

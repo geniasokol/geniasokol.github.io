@@ -7,15 +7,19 @@ permalink:        pretty
 #relative_permalinks: true
 
 # Setup
-title:            Hyde
-tagline:          'A Jekyll theme'
-description:      'A brazen two-column <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that pairs a prominent sidebar with uncomplicated content. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
-url:              http://hyde.getpoole.com
+title:            Sokolskaya Translations
+title_russian:    Евгения Сокольская
+tagline:          'Russian to English translation'
+tagline_russian:  'Перевод с русского на английский'
+description:      'Your choice for Russian to English translation.'
+description_russian: 'Перевод с русского на английский'
+url:              http://sokolskayatranslations.com
 baseurl:          /
 
 author:
-  name:           'Mark Otto'
-  url:            https://twitter.com/mdo
+  name:           'Eugenia Sokolskaya'
+  url:            http://sokolskayatranslations.com
+  email:          eugenia@sokolskayatranslations.com
 
 paginate:         5
 
@@ -25,4 +29,4 @@ version:          2.1.0
 gems: [jekyll-paginate]
 
 github:
-  repo:           https://github.com/poole/hyde
+  repo:           https://github.com/geniasokol/geniasokol.github.io
