@@ -3,35 +3,10 @@ layout: default
 title: Home
 ---
 
-<div class="posts">
-  {% for post in paginator.posts %}
-  <div class="post">
-    <h1 class="post-title">
-      <a href="{{ post.url }}">
-        {{ post.title }}
-      </a>
-    </h1>
-
-    <span class="post-date">{{ post.date | date_to_string }}</span>
-
-    {{ post.content }}
-  </div>
-  {% endfor %}
-</div>
-
-<div class="pagination">
-  {% if paginator.next_page %}
-    <a class="pagination-item older" href="{{ site.baseurl }}page{{paginator.next_page}}">Older</a>
-  {% else %}
-    <span class="pagination-item older">Older</span>
-  {% endif %}
-  {% if paginator.previous_page %}
-    {% if paginator.page == 2 %}
-      <a class="pagination-item newer" href="{{ site.baseurl }}">Newer</a>
-    {% else %}
-      <a class="pagination-item newer" href="{{ site.baseurl }}page{{paginator.previous_page}}">Newer</a>
-    {% endif %}
-  {% else %}
-    <span class="pagination-item newer">Newer</span>
-  {% endif %}
-</div>
+<h1>Welcome!</h1>
+<hr />
+<p><strong>Need something translated from Russian to English?</strong></p>
+<p><strong>I can help!</strong> I have been translating professionally for about five years and have an M.A. in Translation from Kent State University. With my native command of both Russian and English, combined with a strong background in translation theory and practice, I have a unique advantage in providing high-quality translations with fast turnaround times. I also provide several related services, such as certification, editing, transcription, and formatting.</p>
+<p>I am a voting member of the American Translators Association and am <a href="http://atanet.org/listing/18052">listed in their directory</a>. I have passed the ATA Certification Exam for Russian to English and am active in the Slavic Language Division.</p>
+<p>I work with both agencies and direct clients. If you think you might have a project for me, please feel free to contact me - contact info is listed on the <a href="{{ site.baseurl }}contact/index.html">Contact</a> page. I look forward to working with you!</p>
+<p>P.S. You are also welcome to check out my <a href="{{ site.baseurl }}blog/index.html">blog</a>!</p>
