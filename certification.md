@@ -4,6 +4,8 @@ title: Certified Translations
 ---
 
 ---
+<a href="{{ site.baseurl }}certification_russian/"><img src="{{ site.baseurl }}public/russia_icon.png" alt="Russian version of website" style="border:3px solid;border-color:rgb(196, 120, 52);margin-left:20px;padding:0px;background:transparent;" align="right"></a>
+
 ## Yes, I do provide certified translations!
 
 As someone who has passed the <a href="http://atanet.org/certification/aboutcert_overview.php">ATA certification exam</a> from Russian to English, I have the authority to certify my own translations. Certification comes as a form letter with the translation (a certificate of accuracy) containing my signature and an official seal from the ATA that can be used to verify my credentials. I can also notarize this certificate if required.

@@ -2,8 +2,7 @@
 layout: page
 title: Qualifications
 ---
-
-<img src="{{ site.baseurl }}public/graduation.jpg" alt="Photo of me in my graduation gown" style="border:3px solid;border-color:rgb(196, 120, 52);width: 280px;margin-left:20px;padding:0px;background:transparent;" align="right">
+<a href="{{ site.baseurl }}qualifications_russian/"><img src="{{ site.baseurl }}public/russia_icon.png" alt="Russian version of website" style="border:3px solid;border-color:rgb(196, 120, 52);margin-left:20px;padding:0px;background:transparent;" align="right"></a>
 
 R&eacute;sum&eacute; available upon request.
 
@@ -13,6 +12,8 @@ I am **ATA certified** to translate Russian to English.
 
 ## Education
 -------------
+<img src="{{ site.baseurl }}public/graduation.jpg" alt="Photo of me in my graduation gown" style="border:3px solid;border-color:rgb(196, 120, 52);width: 250px;margin-left:20px;padding:0px;background:transparent;" align="right">
+
   * M.A. in Translation, Kent State University, 2016
   * B.A. in Linguistics and Languages, Swarthmore College, 2013
   * Semester abroad at the Faculty of Liberal Arts and Sciences of St. Petersburg State University, 2011

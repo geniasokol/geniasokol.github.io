@@ -5,6 +5,7 @@ title: Services
 
 <div style="text-align: center;"><font color="#c47834"><em>My primary service is Russian to English translation, but I also offer other language directions and a variety of related services.</em></font></div>
 
+<a href="{{ site.baseurl }}services_russian/"><img src="{{ site.baseurl }}public/russia_icon.png" alt="Russian version of website" style="border:3px solid;border-color:rgb(196, 120, 52);margin-left:20px;padding:0px;background:transparent;" align="right"></a>
 ## Translation
 ---------
 My preferred language direction, and the direction I am certified in, is Russian to English. However, I also have experience translating French to English, as well as English to Russian. Please see the Qualifications page for my background in each of these languages.
