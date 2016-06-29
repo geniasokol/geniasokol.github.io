@@ -5,7 +5,7 @@ title: Квалификация
 
 <a href="{{ site.baseurl }}qualifications/"><img src="{{ site.baseurl }}public/english_icon.png" alt="English version of website" style="border:1px solid;border-color:rgb(196, 120, 52);width:32px;margin-left:20px;padding:0px;background:transparent;" align="right"></a>
 
-CV - по востребованию.
+CV предоставляется по требованию.
 
 ### Сертификация
 ---------------
@@ -14,8 +14,8 @@ CV - по востребованию.
 ### Образование
 -------------
 
-  * Диплом мастера по переводу (Master of Arts in Translation), Кентский государственный университет, 2016
-  * Диплом бакалавра по лингвистике, Сварсморский колледж, 2013
+  * Диплом магистра перевода (Master of Arts in Translation), Кентский государственный университет, 2016
+  * Диплом бакалавра лингвистики, Суортморский колледж, 2013
 
 ### Клиенты
 --------------
