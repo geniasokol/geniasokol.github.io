@@ -5,11 +5,11 @@ title: "Just Being Respectful"
 
 Imagine visiting a new friend's house - say, to share a meal in good company. Before this you may have interacted with this person in a professional setting, or maybe somewhere more informal, but this is the first time you're in their space. And suddenly you find out your expectations and those of your host don't align: you were supposed to help with food without being asked and you didn't, or the exact opposite, you tried to help and that didn't go over well. How might you justify what you'd tried to do?
 
->"I was trying to be polite."
->"My parents raised me to be respectful."
->"That's just how I was always taught."
->"That's what you're supposed to do."
->"I didn't want to be rude."
+>"I was trying to be polite." <br>
+>"My parents raised me to be respectful." <br>
+>"That's just how I was always taught." <br>
+>"That's what you're supposed to do." <br>
+>"I didn't want to be rude." <br>
 
 And it really shouldn't need explaining beyond that - should it? The way we use a lot of these words - polite/politeness, respect/respectful, proper, right - often assumes that everyone knows what we're talking about. But our imagined scenario shows that not everyone does - and that doesn't mean that one person is wrong. In one culture (or even in one family, one community, one social class), it may be expected that guests will help themselves or help the host with preparations, whereas in others doing so would be an insult to the host's hospitality. The problem is that we are so used to leaning on these assumptions of what constitutes proper behavior that we often don't realize when they don't apply.
 
