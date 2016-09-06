@@ -1,0 +1,15 @@
+---
+layout: post
+title: "FOMO While Freelancing"
+description: "On staying connected and the fear of losing work"
+---
+
+Much ado has been made over the modern trend toward constant connectivity&emdash;from the <a href="https://www.xero.com/blog/2015/07/the-pros-and-cons-of-always-being-connected/">generally optimistic</a> to the <a href="https://techcrunch.com/2009/08/10/always-being-%E2%80%98connected%E2%80%99-is-ruining-our-way-of-life/">downright dire</a>. In freelancing in general and freelance translation in particular, the pressure is on not just socially, but professionally: if you miss an email and respond too late, that delay could cost you a significant chunk of income. I, for one, found myself having to upgrade to a smartphone and then piling on a smartwatch as I tried to make sure I never missed a message.
+
+Add to that the anxiety of pleasing clients, especially new ones, and especially for those of us without an existing slate of reliable, well-paying sources of income. More than once now a former classmate of mine has texted me for advice: they had been contacted about a new project, but didn't feel like they had the time to do it justice. Would refusing the project lose the client? And for all my "sage" "advice" in response, I know the feeling very well. In fact, taking work sometimes feels like an involuntary reflex: just over a week ago I was already responding "Yes, I'm available" before realizing that it was a Sunday, and I had intended not to work weekends so I could spend time with my fianc&eacute;. But the urge to please was overwhelming, the project was small, and I gave in.
+
+And this was where "FOMO" floated into my mind. FOMO: the fear of missing out. While I had always heard it as referring to social events, and to wondering what fun things your friends were up to, I suddenly realized that it applies very well to freelancers anxious about staying connected and available. There comes a point when this anxiety becomes obsessive, at the expense of other aspects of life (upsetting that possibly mythical "work-life balance"). I certainly went through that phase myself, and at times it still rears its ugly head (see aforementioned Sunday project). This is why now I do my best to enforce 9-5, M-F working hours, to set boundaries and give myself a moment to breathe, to "come home" from work, at least mentally.
+
+This isn't to say that everyone who works freelance should adopt this schedule, or that if you put work as a first priority you should rethink your approach. I would just like my fellow freelancers to step back and ask: am I in a position where I need to answer every email and take every project, or am I only doing that in a FOMO-induced panic? And if you decide that the former is true, go ahead and do what you have to do to make that happen, secure in the knowledge that you have made a conscious choice. For the rest of us, let's ease up a bit, and take the extra time to not miss out on everything else in our lives.
+
+Do you find staying connected a burden or an opportunity? Or both, or neither? What boundaries have you set? Feel free to weigh in down in the comments!

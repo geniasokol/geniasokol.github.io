@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Just Being Respectful"
+description: "Cultural differences and translation"
 ---
 
 Imagine visiting a new friend's house - say, to share a meal in good company. Before this you may have interacted with this person in a professional setting, or maybe somewhere more informal, but this is the first time you're in their space. And suddenly you find out your expectations and those of your host don't align: you were supposed to help with food without being asked and you didn't, or the exact opposite, you tried to help and that didn't go over well. How might you justify what you'd tried to do?
