@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Looking Forward to the ATA Annual Conference"
+title: "Looking Ahead to ATA 2016"
 description: "Are you excited for the ATA conference? I am!"
 ---
 
