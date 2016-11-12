@@ -9,4 +9,5 @@ title: Контактная информация
 **Эл. почта:** eugenia AT sokolskayatranslations DOT com<br/>
 **Тел.:** +1 (610) 955-7940<br/>
 **LinkedIn:** <a href="https://www.linkedin.com/in/geniasokol2013">Eugenia Sokolskaya</a><br/>
+**Твиттер:** <a href="https://twitter.com/eugeniasokol">@eugeniasokol</a><br/>
 **Часовой пояс:** EST (GMT - 5:00)<br/>
