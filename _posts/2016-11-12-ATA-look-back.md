@@ -6,7 +6,7 @@ description: "Things I learned, and thoughts on moving forward."
 
 <img src="{{ site.baseurl }}public/DSCN4765.JPG" alt="Hyatt Regency" style="border:3px solid;border-color:rgb(196, 120, 52);width: 250px;margin-left:20px;padding:0px;background:transparent;" align="right">
 
-It's been over a week since the 57th ATA Conference wrapped up in San Francisco (at the futuristic-looking Hyatt Regency, on the right). After several days getting home and several more days wrapped up in work and follow-up emails, I am finally sitting down to think back on what I got out of the conference (with reference to my <a href="{{ site.baseurl }}2016/11/01/ATA-preview/>preview post</a> from last week).
+It's been over a week since the 57th ATA Conference wrapped up in San Francisco (at the futuristic-looking Hyatt Regency, on the right). After several days getting home and several more days wrapped up in work and follow-up emails, I am finally sitting down to think back on what I got out of the conference (with reference to my <a href="{{ site.baseurl }}2016/11/01/ATA-preview/">preview post</a> from last week).
 
 ## Meeting Clients
 
@@ -32,7 +32,7 @@ Overall, the conference left me feeling inspired to treat myself and my business
 
 <p><img src="{{ site.baseurl }}public/DSCN4766.JPG" alt="San Francisco Ferry Building" style="border:3px solid;border-color:rgb(196, 120, 52);width: 500px;margin-left:20px;padding:0px;background:transparent;" align="center"></p>
 
-Speaking of being inspired to grow my business, I'm now on Twitter! (This change brought to you by "Transitioning from Student to Translator," which turned out to be the last straw in convincing me to take the plunge.) I'm still figuring out how it works and, more importantly, how it can work for me, but I hope it can be another place to connect with fellow translators and potential clients. Find me (and follow me!) at <a href="https://twitter.com/eugeniasokol>@eugeniasokol</a>.
+Speaking of being inspired to grow my business, I'm now on Twitter! (This change brought to you by "Transitioning from Student to Translator," which turned out to be the last straw in convincing me to take the plunge.) I'm still figuring out how it works and, more importantly, how it can work for me, but I hope it can be another place to connect with fellow translators and potential clients. Find me (and follow me!) at <a href="https://twitter.com/eugeniasokol">@eugeniasokol</a>.
 
 --------------------
 
