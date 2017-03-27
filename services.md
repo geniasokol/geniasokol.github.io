@@ -11,7 +11,7 @@ title: Services
 ---------
 My preferred language direction, and the direction I am certified in, is Russian to English. However, I also have experience translating French to English, as well as English to Russian. Please see the <a href="{{ site.baseurl }}qualifications/">Qualifications</a> page for my background in each of these languages.
 
-**Certification:** Yes, I can provide a certified English translation of your official Russian documents! Please see the <a href="{{ site.baseurl }}certification/">Certified Translations</a> page for more information.
+**Certification:** Yes, I can provide a certified English translation of official Russian documents! Please see the <a href="{{ site.baseurl }}certification/">Certified Translations</a> page for more information.
 
 **CAT Tools:** I own MemoQ, SDL Trados Studio 2015, and SDL Passolo.
 *I do not currently offer discounts for fuzzy matches of any level except 100% and Context Match.*
@@ -46,10 +46,8 @@ Rate and payment information is available upon request. Please be advised that I
 ---------
 Most of what I translate is protected by NDA agreements and other confidentiality considerations. If you would like a sample of my work more suited to your needs than those provided below, I am happy to do a translation test.
 
-<ul>
-<li>Excerpt from Federal Law #142-FZ, translated from <a  alt="Russian" href="{{ site.baseurl }}public/Legal_Sample_Russian.pdf">Russian</a> to <a  alt="English" href="{{ site.baseurl }}public/Legal_Sample_English.pdf">English</a>.</li>
+* Excerpt from Federal Law #142-FZ, translated from <a  alt="Russian" href="{{ site.baseurl }}public/Legal_Sample_Russian.pdf">Russian</a> to <a  alt="English" href="{{ site.baseurl }}public/Legal_Sample_English.pdf">English</a>.
 
-<li>Several of my translations are available on the *Russian Life* website as blog posts. The latest such translation can be found <a href="http://russianlife.com/stories/online-archive/the-course-of-revolution-is-not-smooth/">here</a>. Other translations can be found in the magazine and in the *Chtenia* literary supplement.</li>
+* Several of my translations are available on the *Russian Life* website as blog posts. The latest such translation can be found <a href="http://russianlife.com/stories/online-archive/the-course-of-revolution-is-not-smooth/">here</a>. Other translations can be found in the magazine and in the *Chtenia* literary supplement.
 
-<li>Articles by Nina Meleshkina translated for <a href="http://minus.com/lb2eKU4d7FLNvw"><em>New Yoga Magazine</em></a>.</li>
-</ul>
+* Articles by Nina Meleshkina translated for <a href="http://minus.com/lb2eKU4d7FLNvw"><em>New Yoga Magazine</em></a>.

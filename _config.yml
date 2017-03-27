@@ -8,7 +8,7 @@ permalink:        pretty
 
 # Setup
 title:            Sokolskaya Translations
-title_russian:    Евгения Сокольская
+title_russian:    Евгения Тиц-Сокольская
 tagline:          'Russian to English translation'
 tagline_russian:  'Перевод с русского на английский'
 description:      'Your choice for Russian to English translation.'
@@ -17,7 +17,7 @@ url:              http://sokolskayatranslations.com
 baseurl:          /
 
 author:
-  name:           'Eugenia Sokolskaya'
+  name:           'Eugenia Tietz-Sokolskaya'
   url:            http://sokolskayatranslations.com
   email:          eugenia@sokolskayatranslations.com
 

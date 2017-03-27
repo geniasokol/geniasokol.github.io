@@ -8,9 +8,9 @@ title: Contact
 ## Contact Me
 --------
 
-To: Eugenia Sokolskaya<br/>
+To: Eugenia Tietz-Sokolskaya<br/>
 **Email:** eugenia AT sokolskayatranslations DOT com *(preferred)*<br/>
 **Phone:** +1 (610) 955-7940<br/>
-**LinkedIn:** <a href="https://www.linkedin.com/in/geniasokol2013">Eugenia Sokolskaya</a><br/>
+**LinkedIn:** <a href="https://www.linkedin.com/in/geniasokol2013">Eugenia Tietz-Sokolskaya</a><br/>
 **Twitter:** <a href="https://twitter.com/eugeniasokol">@eugeniasokol</a><br/>
 **Time Zone:** EST (GMT - 5:00)<br/>
