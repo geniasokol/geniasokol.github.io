@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ""Free Words": On Ethics in Payment"
+title: "Free Words: On Ethics in Payment"
 description: "A few words on why sometimes more money isn't better"
 ---
 Let's get something straight right off the bat: I like getting paid for my work. Not only am I a business and a self-respecting professional, I also have bills to pay. And I never want to slide back to where I was when I first started freelancing on the side, when I could be conned into translating a 150-page book for $30 or doing work entirely for free (both true stories!).
