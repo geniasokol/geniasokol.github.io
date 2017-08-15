@@ -14,7 +14,7 @@ tagline_russian:  'Перевод с русского на английский'
 description:      'Your choice for Russian to English translation.'
 description_russian: 'Письменный перевод с русского на английский'
 url:              http://sokolskayatranslations.com
-baseurl:          /
+baseurl:          http://sokolskayatranslations.com
 
 author:
   name:           'Eugenia Tietz-Sokolskaya'
