@@ -13,16 +13,16 @@ My preferred language direction, and the direction I am certified in, is Russian
 
 **Certification:** Yes, I can provide a certified English translation of official Russian documents! Please see the <a href="{{ site.baseurl }}certification/">Certified Translations</a> page for more information.
 
-**CAT Tools:** I own MemoQ, SDL Trados Studio 2015, and SDL Passolo.
-*I do not currently offer discounts for fuzzy matches of any level except 100% and Context Match.*
+**CAT Tools:** I own MemoQ and SDL Trados Studio 2019.
 
 ### Specializations
   * Legal translation, particularly contracts and court documents
   * Financial translation, including tax and bank documents
+  * Handwritten documents
   * Journalism and essays
   * Academic writing: linguistics, history, and other social sciences
 
-<div style="text-align: center;"><em><strong>I am willing to do sample/test translations of up to 250 words</strong></em></div>
+<div style="text-align: center;"><em><strong>I am willing to do free sample/test translations of up to 250 words</strong></em></div>
 
 ## Related Services
 ------------

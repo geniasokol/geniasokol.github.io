@@ -19,7 +19,7 @@ title: Услуги
     <tr>
       <td>Перевод RU>EN</td>
       <td>слово</td>
-      <td>0.10 USD</td>
+      <td>0.12 USD</td>
     </tr>
     <tr>
       <td>Перевод FR>EN</td>
@@ -39,14 +39,14 @@ title: Услуги
     <tr>
       <td>Редактирование</td>
       <td>час</td>
-      <td>от 40 USD</td>
+      <td>от 60 USD</td>
     </tr>
     <tr>
       <td>Транскрибирование (рус., англ.)</td>
       <td>час</td>
-      <td>от 40 USD</td>
+      <td>от 60 USD</td>
     </tr>
   </tbody>
 </table>
 
-**Используемые программы:** SDL Trados Studio 2015, MemoQ, SDL Passolo. *Скидки только за полностью совпадающие сегменты!*
+**Используемые программы:** SDL Trados Studio 2019, MemoQ, SDL Passolo. *Скидки только за полностью совпадающие сегменты!*
