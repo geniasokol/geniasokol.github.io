@@ -16,7 +16,7 @@ As someone who has passed the <a href="http://atanet.org/certification/aboutcert
 
 **Do I need certification? What about notarization?** When you need to send foreign-language documents to an American institution (USCIS or other government agencies, universities, potential employers), they will typically specify their certification requirements. Just certification can be provided by any translator; ATA certification is limited to those who have passed the ATA exam for the appropriate language direction. The institution may also specify additional requirements, such as having my signature on the certificate notarized or having me send the translation directly. The certificate does not need to be notarized by default.
 
-**Originals or Scans?** Scanned copies of documents are preferable, provided that they are legible. If I have trouble reading anything, I will verify with you.
+**Originals or scans?** Scanned copies of documents are preferable, provided that they are legible. If I have trouble reading anything, I will verify with you.
 
 **What form will the translation be in?** I provide the translation and certificate of accuracy in electronic (pdf) format, but I can also print and mail them first class to a US address you specify, at no extra cost. For priority or express delivery, as well as delivery to international addresses, I will charge you the mailing costs.
 
