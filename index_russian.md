@@ -18,4 +18,4 @@ title: Добро пожаловать!
 
 Принимаю заказы как от переводческих компаний, так и от физических лиц. Если у Вас есть для меня предложение, <a href="{{ site.baseurl }}contact_russian/">свяжитесь со мной</a>!
 
-*Фотография:* <a href="http://www.ntietz.com">Maura McConnell</a>
+*Фотография:* <a href="https://mbmphotography.com/">Maura McConnell</a>
