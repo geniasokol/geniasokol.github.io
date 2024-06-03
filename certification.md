@@ -22,4 +22,4 @@ As someone who has passed the <a href="http://atanet.org/certification/aboutcert
 
 **How long will it take?** I will send the electronic file with the translation within one business day from when I receive payment.
 
-**How much will it cost and how do I pay?** I charge a flat $25 rate per page, which includes the translation itself, matching formatting, and certification. Notarization is a separate $25 charge. I request payment in advance, preferably over PayPal or Zelle. Please <a href="{{ site.baseurl }}contact/">contact me</a> for an estimate.
+**How much will it cost and how do I pay?** I charge a flat $30 rate per page, which includes the translation itself, matching formatting, and certification. Notarization is a separate $30 charge. I request payment in advance, preferably over PayPal or Zelle. Please <a href="{{ site.baseurl }}contact/">contact me</a> for an estimate.
