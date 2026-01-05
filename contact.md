@@ -9,7 +9,7 @@ title: Contact
 --------
 
 To: Eugenia Sokolskaya<br/>
-**Email:** <a href="mailto:eugenia@sokolskayatranslations.com>eugenia@sokolskayatranslations.com</a> *(preferred)*<br/>
+**Email:** <a href="mailto:eugenia@sokolskayatranslations.com">eugenia@sokolskayatranslations.com</a> *(preferred)*<br/>
 **Phone:** +1 (610) 955-7940<br/>
 **LinkedIn:** <a href="https://www.linkedin.com/in/geniasokol2013">Eugenia Tietz-Sokolskaya</a><br/>
 **Twitter:** <a href="https://twitter.com/eugeniasokol">@eugeniasokol</a><br/>
