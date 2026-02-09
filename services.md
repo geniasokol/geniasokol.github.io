@@ -13,7 +13,7 @@ My preferred language direction, and the direction I am certified in, is Russian
 
 **Certification:** Yes, I can provide a certified English translation of your official Russian documents! Please see the <a href="{{ site.baseurl }}certification/">Certified Translations</a> page for more information.
 
-**CAT Tools:** I own MemoQ and SDL Trados Studio 2019, and work regularly in Memsource/Phrase.
+**CAT Tools:** I own memoQ and SDL Trados Studio 2019, and work regularly in Memsource/Phrase.
 *I do not currently offer discounts for fuzzy matches of any level except 100% and Context Match.*
 
 ### Specializations
@@ -41,7 +41,7 @@ Rate and payment information is available upon request. Please be advised that I
 
 # Portfolio
 ---------
-Most of what I translate is protected by NDA agreements and other confidentiality considerations. If you would like a sample of my work more suited to your needs than those provided below, I am happy to do a translation test.
+Most of what I translate is protected by non-disclosure agreements and other confidentiality commitments. If you would like a sample of my work more suited to your needs than those provided below, I am happy to do a translation test.
 
 <ul>
 <li>Excerpt from Federal Law #142-FZ, translated from <a  alt="Russian" href="{{ site.baseurl }}public/Legal_Sample_Russian.pdf">Russian</a> to <a  alt="English" href="{{ site.baseurl }}public/Legal_Sample_English.pdf">English</a>.</li>
