@@ -25,7 +25,7 @@ Native fluency in English and Russian (A-languages), working proficiency in Fren
 
 ### Russian
 
-*I have been told that it is impossible to have two native languages.* However, I am one of several counterexamples to this rule. Russian was my first language, and was diligently maintained - by both my parents' efforts and my own - throughout my life in the United States. I was brought to the United States at the age of 4, when I was still capable of acquiring English natively. Since I have been more exposed to English in my academic and professional life, my writing in English flows more naturally, but I have never had trouble understanding any Russian text or writing competently in Russian.
+*I have been told that it is impossible to have two native languages.* However, I am one of several counterexamples to this rule. Russian was my first language, and has been diligently maintained - by both my parents' efforts and my own - throughout my life in the United States. I was brought to the United States at the age of 4, when I was still capable of acquiring English natively. Since I have been more exposed to English in my academic and professional life, my writing in English flows more naturally, but I have never had trouble understanding any Russian text or writing competently in Russian.
 
 **In-country experience:** I have visited my family in Russia numerous times throughout my life, including the semester abroad mentioned above. My family is also active in the Russian community in Philadelphia.
 
